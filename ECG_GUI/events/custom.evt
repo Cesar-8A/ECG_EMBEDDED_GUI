@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.Show_menu" type="0x8">
+    <label>Show_menu animation complete</label>
+    <description>The animation named Show_menu has completed</description>
+  </event>
+  <event name="gre.animate.stop.Show_menu" type="0x8">
+    <label>Show_menu animation stopped</label>
+    <description>The animation named Show_menu has been stopped</description>
+  </event>
+  <event name="timer.info_panel" type="0x8">
+    <description>The timer named timer.info_panel has fired</description>
+  </event>
+  <event name="timer.timer_graph" type="0x8">
+    <description>The timer named timer.timer_graph has fired</description>
+  </event>
+</eventdefinitions>
